@@ -755,14 +755,14 @@
                 "title": "",
                 "textTitle": "SAMZA-WOOD",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "Производим и поставляем из лиственницы любые пиломатериалы, брус и круглый лес",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ MAC</a>",
                 "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dk-romantik-1680x861.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -775,13 +775,13 @@
                 "title": "",
                 "textTitle": "SAMZA-WOOD",
                 "overlay": true,
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "text": "Производим и поставляем из лиственницы любые пиломатериалы, брус и круглый лес",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-0075-1200-e1553842393874-1047x690.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
