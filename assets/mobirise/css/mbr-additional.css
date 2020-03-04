@@ -954,6 +954,19 @@ section.lazy-placeholder:after {
 .cid-rRtG2H6pNX P {
   color: #ffffff;
 }
+.cid-rShqe6DYro {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rShqe6DYro .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rShq9cmHXc {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
 .cid-rRtvYDkEKy {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -974,11 +987,11 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rRtvYDkEKy .cards-block {
-    border-top: 2px solid #efefef;
+    border-top: 2px solid #cccccc;
   }
 }
 .cid-rRtvYDkEKy .cards-block .card {
-  border-bottom: 2px solid #efefef;
+  border-bottom: 2px solid #cccccc;
   border-radius: 0;
 }
 .cid-rRtvYDkEKy .cards-container {
